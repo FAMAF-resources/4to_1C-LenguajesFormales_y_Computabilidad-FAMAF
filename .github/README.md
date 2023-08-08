@@ -5,11 +5,11 @@ cd utilsWorkflows
 ```
 
 ```bash
-chmod +x ./utilsWorkflows/update_w_from_parent.sh
+chmod +x ./Famaf-Resources-Manager/update_w_from_parent.sh
 ```
 
 ```bash
-./utilsWorkflows/update_w_from_parent.sh
+./Famaf-Resources-Manager/update_w_from_parent.sh
 ```
 
 ## Update submodules

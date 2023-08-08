@@ -7,11 +7,9 @@ documentation:
 
 exams:
   - 'ExamenesViejos/*'
-  - 'ExamenesViejos/**/*'
 
 apuntes:
   - 'apuntes/*'
-  - 'apuntes/**/*'
 
 examples:
   - 'examples/*'

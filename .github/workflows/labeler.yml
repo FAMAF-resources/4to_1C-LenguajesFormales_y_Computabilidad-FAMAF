@@ -1,10 +1,6 @@
 name: 'Pull Request Labeler'
 
-on:
-  pull_request:
-    types: [opened, ready_for_review, labeled, unlabeled]
-  pull_request_target:
-    types: [opened, ready_for_review, labeled, unlabeled, reopened, synchronize]
+on: [pull_request, pull_request_target]
 
 jobs:
   label:
