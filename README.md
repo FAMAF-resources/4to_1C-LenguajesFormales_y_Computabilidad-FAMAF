@@ -1,4 +1,3 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/4to_1C-LenguajesFormales_y_Computabilidad-FAMAF)
 
 # Lenguajes Formales y Computabilidad - FAMAF - Computacion
 
